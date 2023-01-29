@@ -1,2 +1,3 @@
 Dragon- clicker: add a dragon icon or emoji, I would like to have added an image from my files. Dragon will increment when it is clicked on. this was achieved with addEvenlistener with a variable declaration.
 Dragon-duo:  add two dragon to the App, that will increment individually once click. My biggest issue with this was, debugging. I could not get my second dragon to increment. Going back and forth using the dev tools and VS code  really help with this problem. 
+Dragon spawner: the dragon spawner had some added difficulties, creating a nav bar and linking it the the dragons. I feel my code was can of complicated, and could be made easier with more time and experience. Working on this project, gave me a better understanding of data structures and why it is needed.
